@@ -13,13 +13,13 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["573147616444", '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿
-["5492266613038"], 
-["5573031859"],
-["593968585383"],
-["595976126756"],
-["593968263524"],
-["5215539356057"]]
+["905370434073", '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿
+["905370434073"], 
+["905370434073"],
+["905370434073"],
+["905370434073"],
+["905370434073"],
+["905370434073"]]
 
 global.mods = []
 global.prems = []
@@ -52,7 +52,7 @@ global.confirmCode = "" // No tocar esto : Do not touch this line
 // ❰❰ IDIOMAS DISPONIBLES : AVAILABLE LANGUAGES ❱❱
 // Español 👉 es           
 // English 👉 en
-global.lenguajeGB = es
+global.lenguajeGB = en
 global.mid = esDefault
 global.version_language = '1.0 (MID-GB)'
 
